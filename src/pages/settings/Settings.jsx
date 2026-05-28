@@ -217,7 +217,7 @@ export default function Settings() {
           <div className="flex justify-between gap-4">
             <span>Application</span>
             <span className="font-semibold text-gray-700 text-right">
-              FUOYE Smart Space System
+              FUOYE Smart Campus Management System
             </span>
           </div>
 

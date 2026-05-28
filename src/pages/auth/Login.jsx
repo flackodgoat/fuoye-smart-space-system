@@ -344,7 +344,8 @@ export default function Login() {
                   </h2>
 
                   <p className="text-gray-500 text-sm mt-1">
-                    Sign in to access your FUOYE Smart Space dashboard.
+                    Sign in to access your FUOYE Smart Campus Management System
+                    dashboard.
                   </p>
                 </>
               )}
@@ -523,8 +524,8 @@ export default function Login() {
           </div>
 
           <p className="text-center text-[10px] text-gray-400 mt-5">
-            FUOYE Smart Space System © 2026 Developed by CSC 320 Project GROUP B ·
-            Federal University Oye-Ekiti
+            FUOYE Smart Campus Management System © 2026 Developed by CSC 320
+            Project GROUP B · Federal University Oye-Ekiti
           </p>
         </div>
       </div>
